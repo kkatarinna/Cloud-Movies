@@ -7,7 +7,7 @@ import javax.persistence.*;
 
 @Data
 @Entity
-@Table(name="film")
+@Table(name="sv_64_2021")
 public class Film {
 
     @Id
